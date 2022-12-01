@@ -1,0 +1,48 @@
+*, html {
+    margin:0;
+}
+.topnav{
+   background-color: #333;
+   overflow:hidden;
+   border: none;
+   height: 500;
+   top: 1px;
+}
+.Name {
+    font-weight: bold;
+    color: rgb(189, 187, 187);
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    float: left;
+}
+.subheader {
+    float: right;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    font-weight: bold;
+    color: rgb(189, 187, 187);
+    font-size: 25px;
+}
+.responsive{
+    width: 100%;
+    height: auto;
+}
+
+.footer{
+    height: 200;
+    border: none;
+    overflow: hidden;
+    padding: 0;
+}
+
+.video{
+    padding: 50px
+}
+
+.sol{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
